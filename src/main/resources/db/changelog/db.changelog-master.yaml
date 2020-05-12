@@ -1,0 +1,4 @@
+databaseChangeLog:
+
+  - include:
+      file: classpath:/db/changelog/1.0/1589106677271-db-init.xml
