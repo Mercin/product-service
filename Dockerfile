@@ -7,4 +7,3 @@ EXPOSE 8080
 ENTRYPOINT ["java", "-jar", "product-service.jar"]
 
 ENV FIXER_API_KEY="$FIXER_API_KEY"
-EXPOSE 8080
